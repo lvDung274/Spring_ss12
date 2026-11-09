@@ -1,0 +1,16 @@
+2026-11-09 11:12:22 [restartedMain] INFO  c.e.b.BtthSession12Application - Starting BtthSession12Application using Java 21.0.12.1 with PID 7372 (E:\Riki_Soft\BTVN Rikki\Spring\Sesion12\btth-session12\build\classes\java\main started by Admin in E:\Riki_Soft\BTVN Rikki\Spring\Sesion12\btth-session12)
+2026-11-09 11:12:22 [restartedMain] INFO  c.e.b.BtthSession12Application - The following 1 profile is active: "prod"
+2026-11-09 11:12:24 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2026-11-09 11:12:24 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@117d5ba5
+2026-11-09 11:12:24 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2026-11-09 11:12:25 [restartedMain] INFO  c.e.b.BtthSession12Application - Started BtthSession12Application in 3.484 seconds (process running for 4.058)
+2026-11-09 11:13:23 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2026-11-09 11:13:23 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2026-11-09 21:54:23 [restartedMain] INFO  c.e.b.BtthSession12Application - Starting BtthSession12Application using Java 21.0.12.1 with PID 21752 (E:\Riki_Soft\BTVN Rikki\Spring\Sesion12\btth-session12\build\classes\java\main started by Admin in E:\Riki_Soft\BTVN Rikki\Spring\Sesion12\btth-session12)
+2026-11-09 21:54:23 [restartedMain] INFO  c.e.b.BtthSession12Application - The following 1 profile is active: "prod"
+2026-11-09 21:54:24 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2026-11-09 21:54:25 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@339f3df3
+2026-11-09 21:54:25 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2026-11-09 21:54:27 [restartedMain] INFO  c.e.b.BtthSession12Application - Started BtthSession12Application in 4.975 seconds (process running for 5.597)
+2026-11-09 21:54:39 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2026-11-09 21:54:39 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
